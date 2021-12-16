@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @QuantStochastic
-- 👀 I’m interested in stats, data science, econometrics and quantitative finance.
-- "Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." - @naval
+- 👀 I’m interested in stats, econometrics, game theory and finance.
 
 
 <!---
